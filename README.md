@@ -1,9 +1,6 @@
-<DOCTYPE!>
-<html>
-  <head>
-    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
-  </head>
+
   <body>
+    <h1>Ejercicio de Introducción a HTML en OpenBootcamp</h1>
     <p>Este es mi primer comentario de dos líneas</p>
     <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
     <ul>
